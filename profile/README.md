@@ -1,12 +1,20 @@
-## idSign
+# Quick Start
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+![BANNER.jpg](https://github.com/IDsignHQ/docs/blob/47dcabb76fdc6382794ea8af063648e6924f9367/public/idsign_feature.jpg)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+
+idSign is a decentralized e-signature & identity protocol revolutionizing digital trust by abstracting signatures into tamper-proof, immutable records on the blockchain, and transforming KYC from a recurring hurdle into a reusable one-time process, addressing the acute needs of governments and large corporations for stringent data privacy.
+ 
+Our target market goes beyond web3 and into various sectors such as traditional finance and other business. We believe that our platform is the first real-world utility of web3 that can be used as a SAAS model by anyone! Our platform leverages the decentralized nature of blockchain technology to reduce risk, protect privacy, and solidifies authenticity.
+
+“idSign is about more than just signing a document or proving your identity. It's about retaking control of your data, maintaining your privacy, and stepping into a streamlined, efficient future of business operations. With idSign, we are transforming your signature from just a scribble on a document into a on-chain proof of signature and your KYC process into a user-empowering system where you verify once and utilize endlessly."
+
+We have a clear go-to-market strategy that outlines how we plan to get a significant market share from our competitors. We have achieved great interest and got several deals/grants from third-party providers and our product roadmap includes a lot of future plans that include decentralized escrow and other use-cases automating online agreements!
+
+The demand for online signatures is witnessing a substantial surge as the market size continues to expand significantly. This rise is propelled by an increasing number of companies adopting remote work policies, recognizing the critical need for digital solutions in signature and verification processes. However, this shift also corresponds with a notable increase in cyber-crimes and data leaks, emphasizing the imperative need for secure, reliable, and innovative solutions in the digital signature landscape.
+
+idSign - Revolutionizing Digital Trust.
