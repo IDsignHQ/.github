@@ -1,7 +1,7 @@
 # Quick Start
 
 
-![BANNER.jpg](https://github.com/IDsignHQ/docs/blob/47dcabb76fdc6382794ea8af063648e6924f9367/public/idsign_feature.jpg)
+![BANNER.jpg](../idsign_feature.jpg)
 
 
 
