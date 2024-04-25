@@ -1,10 +1,8 @@
 # Quick Start
 
----
 
 ![BANNER.jpg](https://github.com/IDsignHQ/docs/blob/47dcabb76fdc6382794ea8af063648e6924f9367/public/idsign_feature.jpg)
 
----
 
 
 idSign is a decentralized e-signature & identity protocol revolutionizing digital trust by abstracting signatures into tamper-proof, immutable records on the blockchain, and transforming KYC from a recurring hurdle into a reusable one-time process, addressing the acute needs of governments and large corporations for stringent data privacy.
